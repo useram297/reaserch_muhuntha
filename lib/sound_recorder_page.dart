@@ -80,7 +80,7 @@ class _SoundRecorderPageState extends State<SoundRecorderPage>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Sound Recorder with Animation'),
+        title: const Text('Real Time Auscultation'),
         centerTitle: true,
       ),
       body: Center(
